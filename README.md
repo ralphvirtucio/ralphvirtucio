@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A passionate Software Engineer based in the Philippines
 -------------------------------------------------------
 
-I'm deeply passionate about developing applications and turning creative ideas into reality. I love helping others leverage technology to boost productivity—and who knows, maybe even create a stress-free environment for everyone 😄 Currently diving deep into AI and Machine Learning, exploring how intelligent systems can shape the future.
+I'm deeply passionate about solving problems and turning creative ideas into reality. I love helping others leverage technology to boost productivity—and who knows, maybe even create a stress-free environment for everyone 😄 Currently diving deep into AI and Machine Learning, exploring how intelligent systems can shape the future.
 
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [ralph.virtucio.fullstack@gmail.com](mailto:ralph.virtucio.fullstack@gmail.com)
